@@ -1,0 +1,21 @@
+  body{
+
+    color: rgb(214, 74, 9);
+    border-width: auto auto;
+    border: 2px solid rgb(214, 74, 9);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+div{
+    
+    background-color: rgb(237, 200, 144);
+    color: rgb(214, 74, 9);
+    width: 160px;
+    border: 3px solid rgb(214, 74, 9);
+    border-radius: 5px;
+    padding: 30px 30px 30px 30px;
+    margin: 5px;
+}
